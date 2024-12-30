@@ -1,7 +1,7 @@
 telegram_token: "6538036603:AAHcG_LEonnta7sj5PupQOA0iC5TiBfjeac"
-openai_api_key: ""
+openai_api_key: "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"
 openai_api_base: null  # leave null to use default api base or you can put your own base url here
-allowed_telegram_usernames: []  # if empty, the bot is available to anyone. pass a username string to allow it and/or user ids as positive integers and/or channel ids as negative integers
+allowed_telegram_usernames: [cytra bot]  # if empty, the bot is available to anyone. pass a username string to allow it and/or user ids as positive integers and/or channel ids as negative integers
 new_dialog_timeout: 600  # new dialog starts after timeout (in seconds)
 return_n_generated_images: 1
 n_chat_modes_per_page: 5
